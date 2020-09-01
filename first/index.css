@@ -1,0 +1,22 @@
+header{
+    background-color:#444444;
+    height:15vh;
+    margin:0px;
+}
+
+body{
+    background-color:#D8D8D8;
+    margin:0px;
+}
+
+section{
+    background-color:#EFEFEF;
+    margin: 0px 10vw;
+    height: 75vh;
+}
+
+footer{
+    background-color:#222222;
+    height: 10vh;
+    margin:0vw 10vw;
+}
