@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color:#D8D8D8;
+    height: 50px;
+    padding:25px;
+}
+nav{
+    height:50px;
+    width:50px;
+    background-color:#4A90E2;
+}
+article{
+    padding: 30px 50px 100px 50px;
+}
+div{
+    height:100px;
+    margin:0px;
+}
+#blue{
+    background-color:#4A90E2;
+}
+#turqoise{
+    background-color:#50E3C2;
+}
+#green{
+    background-color:#B8E986;
+}
+#yellow{
+    background-color:#F8E71C;
+}
